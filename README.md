@@ -1,44 +1,54 @@
 # awesome-xamarin
-A bookmarks collection of modern/interesting libraries/tools for Xamarin Android/iOS/WP projects, subjectively hand-picked by yours truly.
+A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for Xamarin Android/iOS/WP projects.
 
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   
 * [Awesome Xamarin](#awesome-xamarin)
   * [General](#general)
-  * *TODO: map*
+  * [Architecture](#architecture)
+  * [Async](#async)
+  * [Cloud](#cloud)
+  * [Database/Caching](#database-caching)
+  * [Framework](#frameworks)
+  * [Game Engine](#game-engine)
+  * [Imaging](#imaging)
+  * [IOC](#ioc)
+  * [Internationalization](#internationalization)
+  * [MVVM](#mvvm)
+  * [Network](#network)
+  * [Security](#security)
+  * [Serialization](#serialization)
+  * [TDD/BDD](#tdd-bdd)
+  * [Tool](#tool)
+  * [Wearable](#wearable)
+  * [Xamarin.Forms](#xamarin-forms)
+  * [XPlat APIs](#xplat-apis)
 
 ## General
 * [Polly](https://github.com/michael-wolfenden/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 * [Stateless](https://github.com/nblumhardt/stateless) - State Machines
 * [Humanizer](https://github.com/MehdiK/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
-* [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
 * [nValid](https://github.com/leddt/nValid) - Fluent validation library for .NET
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
-
-## API Wrapper
-* [Acr.IO](https://github.com/aritchie/io) - access system folders and files using a familiar api
-* [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - reading the user's address book and using the camera
+* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
 
 ## Architecture
 * [MonkeyArms](https://github.com/benbishop/MonkeyArms) - architecture framework, DI, MVVM, ...
 
-## Assembly Manipulation
-* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
-
 ## Async
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
-* [LinqToAwait](https://github.com/paulcbetts/LinqToAwait)
+* [LinqToAwait](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await
 
-## Cloud Services
-* [FireSharp](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
+## Cloud
 * [Azure](http://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
+* [FireSharp](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
 
 ## Database/Caching
 * [SQLite.Net-PCL](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async
 * [Akavache](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [Massive](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively
 
-## Frameworks
+## Framework
 * [SimplyMobile](https://github.com/sami1971/SimplyMobile) - Collection of abstracted mobile functionalities
 
 ## Game Engine
@@ -68,7 +78,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 	  * [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
   * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
-* [Bind](https://github.com/praeclarum/Bind)
+* [Bind](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
 
 ## Network
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
@@ -77,25 +87,21 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Flurl](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [Fusillade](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
 
-## Notifications
-* [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
-* [Xamarin.Badge](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
-* [Xamarin.LocalNotifications](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications
-
 ## Security
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
 
 ## Serialization
-* [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+* [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 
 ## TDD/BDD
 * [FluentAssertions](http://www.fluentassertions.com/) - TDD/BDD fluent asserts
 * [NBehave](https://github.com/nbehave/NBehave) - framework for Behaviour-Driven Development
 
-## Tools
+## Tool
 * [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, allows editing *.axml files in IDEA or Android Studio 
+* [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 
-## Wear/Watch
+## Wearable
 * [WormHoleSharp](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
 
 ## Xamarin.Forms
@@ -105,4 +111,15 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [xamarin-forms-xna](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
 * [Acr-xamarin-forms](https://github.com/aritchie/acr-xamarin-forms) - Camera/Gallery, Barcode Scanning, User Dialogs, Geo-Location, Network Utils, Device Info, Settings, E-Mail, Phone, SMS all for Xamarin.Forms
 * [Xamarin-Forms-Labs](https://github.com/XLabs/Xamarin-Forms-Labs) - a powerful and cross platform set of controls and helpers
+
+## XPlat APIs
+* [io](https://github.com/aritchie/io) - access system folders and files using a familiar api
+* [userdialogs](https://github.com/aritchie/userdialogs) - standard user dialogs from a shared/portable library. Supports Android, iOS, and Windows Phone 8
+* [barcodes](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
+* [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - reading the user's address book and using the camera
+* [biometrics](https://github.com/aritchie/biometrics) - (Fingerprint Sensor) For Xamarin (iOS & Android)
+* [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
+* [Xamarin.Badge](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
+* [Xamarin.LocalNotifications](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications
+* [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 
