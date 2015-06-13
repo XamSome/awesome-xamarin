@@ -76,6 +76,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 	  * [Cheesebaron.MvxPlugins](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins
 	  * [MvxAms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross Azure Mobile Services plugin
 	  * [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
+	  * [acrmvvmcross](https://github.com/aritchie/acrmvvmcross) - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
   * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 * [Bind](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
@@ -122,4 +123,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Xamarin.Badge](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
 * [Xamarin.LocalNotifications](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
+* [xamarin-plugins](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
+* [Xamarin.Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
 
