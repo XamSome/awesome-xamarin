@@ -5,7 +5,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   
 * [Awesome Xamarin](#awesome-xamarin)
   * [General](#general)
-  * [Architecture](#architecture)
   * [Async](#async)
   * [Cloud](#cloud)
   * [Database/Caching](#database-caching)
@@ -31,9 +30,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [nValid](https://github.com/leddt/nValid) - Fluent validation library for .NET
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
-
-## Architecture
-* [MonkeyArms](https://github.com/benbishop/MonkeyArms) - architecture framework, DI, MVVM, ...
 
 ## Async
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
@@ -72,11 +68,10 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## MVVM
 * Frameworks
   * [MVVMCross](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework
-    * Plugins
-	  * [Cheesebaron.MvxPlugins](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins
-	  * [MvxAms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross Azure Mobile Services plugin
-	  * [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
-	  * [acrmvvmcross](https://github.com/aritchie/acrmvvmcross) - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
+	* [Cheesebaron.MvxPlugins](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins
+	* [MvxAms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross Azure Mobile Services plugin
+	* [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
+	* [acrmvvmcross](https://github.com/aritchie/acrmvvmcross) - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
   * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 * [Bind](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
