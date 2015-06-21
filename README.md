@@ -120,4 +120,5 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 * [xamarin-plugins](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
 * [Xamarin.Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
+* [Calendars](https://github.com/TheAlmightyBob/Calendars) Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
 
