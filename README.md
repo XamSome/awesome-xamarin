@@ -15,7 +15,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [Internationalization](#internationalization)
   * [MVVM](#mvvm)
   * [Network](#network)
-  * [Security](#security)
   * [Serialization](#serialization)
   * [TDD/BDD](#tdd-bdd)
   * [Tool](#tool)
@@ -83,9 +82,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Flurl](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [Fusillade](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
 
-## Security
-* [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
-
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 
@@ -109,16 +105,21 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Xamarin-Forms-Labs](https://github.com/XLabs/Xamarin-Forms-Labs) - a powerful and cross platform set of controls and helpers
 
 ## XPlat APIs
-* [io](https://github.com/aritchie/io) - access system folders and files using a familiar api
-* [userdialogs](https://github.com/aritchie/userdialogs) - standard user dialogs from a shared/portable library. Supports Android, iOS, and Windows Phone 8
+Supports Android, iOS, and Windows Phone 8
 * [barcodes](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
-* [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - reading the user's address book and using the camera
 * [biometrics](https://github.com/aritchie/biometrics) - (Fingerprint Sensor) For Xamarin (iOS & Android)
+* [Calendars](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
+* [io](https://github.com/aritchie/io) - access system folders and files using a familiar api
+mobile-optimized libs (NSURLSession / OkHttp)
+* [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
+* [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
+* [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
+* [userdialogs](https://github.com/aritchie/userdialogs) - standard user dialogs from a shared/portable library.
+* [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using 
 * [Xamarin.Badge](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
 * [Xamarin.LocalNotifications](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications
-* [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
+* [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - reading the user's address book and using the camera
 * [xamarin-plugins](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
 * [Xamarin.Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
-* [Calendars](https://github.com/TheAlmightyBob/Calendars) Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
 
