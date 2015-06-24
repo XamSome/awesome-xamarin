@@ -115,6 +115,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
+* [Settings](https://github.com/aritchie/settings) - ACR Settings - A cross platform settings plugin for Xamarin and Windows
 * [userdialogs](https://github.com/aritchie/userdialogs) - standard user dialogs from a shared/portable library.
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
 * [Xamarin.Badge](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
