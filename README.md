@@ -105,17 +105,20 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [xamarin-forms-xna](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
 
 ## XPlat APIs
-Supports Android, iOS, and Windows Phone 8
+Most of them support Android and iOS, some do Windows Phone 8
+
 * [barcodes](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
 * [biometrics](https://github.com/aritchie/biometrics) - (Fingerprint Sensor) For Xamarin (iOS & Android)
 * [Calendars](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
 * [io](https://github.com/aritchie/io) - access system folders and files using a familiar api
 mobile-optimized libs (NSURLSession / OkHttp)
+* [Lager](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using 
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
-* [Settings](https://github.com/aritchie/settings) - ACR Settings - A cross platform settings plugin for Xamarin and Windows
+* [Settings](https://github.com/aritchie/settings) - A cross platform settings plugin for Xamarin and Windows
+* [Telephony](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality
 * [userdialogs](https://github.com/aritchie/userdialogs) - standard user dialogs from a shared/portable library.
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
 * [Xamarin.Badge](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
@@ -123,4 +126,3 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - reading the user's address book and using the camera
 * [xamarin-plugins](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
 * [Xamarin.Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
-
