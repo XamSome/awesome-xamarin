@@ -81,6 +81,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
+* [RestEase](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
 
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
