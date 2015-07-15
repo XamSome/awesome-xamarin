@@ -9,6 +9,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [Cloud](#cloud)
   * [Database/Caching](#database-caching)
   * [Framework](#frameworks)
+  * [Fody](#fody)
   * [Game Engine](#game-engine)
   * [Imaging](#imaging)
   * [IOC](#ioc)
@@ -25,7 +26,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## General
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
-* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
 * [Humanizer](https://github.com/MehdiK/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
 * [nValid](https://github.com/leddt/nValid) - Fluent validation library for .NET
 * [Polly](https://github.com/michael-wolfenden/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
@@ -43,6 +43,12 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Akavache](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [Massive](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively
 * [SQLite.Net-PCL](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async
+
+## Fody
+* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
+* [ReactiveUI.Fody](https://github.com/kswoll/ReactiveUI.Fody) - generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
+* [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - automatically generates DependencyProperty boilerplate from simple C# properties
+* [PropertyChanged.Fody](https://github.com/Fody/PropertyChanged/) - Injects INotifyPropertyChanged code into properties at compile time
 
 ## Framework
 * [SimplyMobile](https://github.com/sami1971/SimplyMobile) - Collection of abstracted mobile functionalities
