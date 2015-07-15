@@ -15,6 +15,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [Internationalization](#internationalization)
   * [MVVM](#mvvm)
   * [Network](#network)
+  * [Security](#security)
   * [Serialization](#serialization)
   * [TDD/BDD](#tdd-bdd)
   * [Tool](#tool)
@@ -83,6 +84,10 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
 
+## Security
+* [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
+* [BoucyCastle.PCL](https://github.com/onovotny/BouncyCastle-PCL) PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
+
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 
@@ -116,7 +121,6 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [Lager](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using 
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
-* [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Settings](https://github.com/aritchie/settings) - A cross platform settings plugin for Xamarin and Windows
 * [Telephony](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality
