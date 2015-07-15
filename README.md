@@ -27,7 +27,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## General
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
 * [Humanizer](https://github.com/MehdiK/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
-* [nValid](https://github.com/leddt/nValid) - Fluent validation library for .NET
+* [Fluent Validation](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules
 * [Polly](https://github.com/michael-wolfenden/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 * [Stateless](https://github.com/nblumhardt/stateless) - State Machines
 
@@ -46,8 +46,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Fody
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
-* [ReactiveUI.Fody](https://github.com/kswoll/ReactiveUI.Fody) - generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
-* [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - automatically generates DependencyProperty boilerplate from simple C# properties
+* [ReactiveUI.Fody](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
+* [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties
 * [PropertyChanged.Fody](https://github.com/Fody/PropertyChanged/) - Injects INotifyPropertyChanged code into properties at compile time
 
 ## Framework
@@ -55,7 +55,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Game Engine
 * [CocosSharp](https://github.com/mono/CocosSharp) - C# implementation of the Cocos2D and Cocos3D APIs
-* [MonoGame](https://github.com/mono/MonoGame) - open source implementation of the Microsoft XNA 4.x Framework 
+* [MonoGame](https://github.com/mono/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework 
 * [Paradox](https://github.com/SiliconStudio/paradox) - Paradox3D + Silicon Studio .NET
 
 ## Imaging
@@ -113,7 +113,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [NControl](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
 * [SolTech Xamarin Forms Toolkit](https://github.com/soltechinc/soltechxf) - set of helpful extensions to the Xamarin Forms framework
-* [Xamarin-Forms-Labs](https://github.com/XLabs/Xamarin-Forms-Labs) - a powerful and cross platform set of controls and helpers
+* [Xamarin-Forms-Labs](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers
 * [xamarin-forms-xna](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
 
 ## XPlat APIs
@@ -122,18 +122,18 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [barcodes](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
 * [biometrics](https://github.com/aritchie/biometrics) - (Fingerprint Sensor) For Xamarin (iOS & Android)
 * [Calendars](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
-* [io](https://github.com/aritchie/io) - access system folders and files using a familiar api
+* [io](https://github.com/aritchie/io) - Access system folders and files using a familiar api
 mobile-optimized libs (NSURLSession / OkHttp)
 * [Lager](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using 
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
-* [Settings](https://github.com/aritchie/settings) - A cross platform settings plugin for Xamarin and Windows
+* [Settings](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows
 * [Telephony](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality
-* [userdialogs](https://github.com/aritchie/userdialogs) - standard user dialogs from a shared/portable library.
+* [userdialogs](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
 * [Xamarin.Badge](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
 * [Xamarin.LocalNotifications](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications
-* [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - reading the user's address book and using the camera
+* [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - Reading the user's address book and using the camera
 * [xamarin-plugins](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
 * [Xamarin.Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
