@@ -113,6 +113,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [NControl](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
 * [SolTech Xamarin Forms Toolkit](https://github.com/soltechinc/soltechxf) - set of helpful extensions to the Xamarin Forms framework
+* [TwinTechsFormsLib](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell
 * [Xamarin-Forms-Labs](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers
 * [xamarin-forms-xna](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
 
