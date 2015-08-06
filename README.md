@@ -19,7 +19,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [Security](#security)
   * [Serialization](#serialization)
   * [TDD/BDD](#tdd-bdd)
-  * [Tool](#tool)
+  * [Tools](#tool)
   * [Wearable](#wearable)
   * [Xamarin.Forms](#xamarin-forms)
   * [XPlat APIs](#xplat-apis)
@@ -101,9 +101,10 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [FluentAssertions](http://www.fluentassertions.com/) - TDD/BDD fluent asserts
 * [NBehave](https://github.com/nbehave/NBehave) - framework for Behaviour-Driven Development
 
-## Tool
+## Tools
 * [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
-* [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, allows editing *.axml files in IDEA or Android Studio 
+* [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
+* [GradleBindings](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
 
 ## Wearable
 * [WormHoleSharp](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
