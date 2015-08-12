@@ -62,6 +62,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Fast & Furious Image Loading](https://github.com/molinch/FFImageLoading) - Xamarin library to load images quickly & easily
 * [NGraphics](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [Splat](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
+* [EZ-Compress](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
 
 ## IOC
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
@@ -86,9 +87,11 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Flurl](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [Fusillade](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
+* [Push Notification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
+* [Sockets](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT
 
 ## Security
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
@@ -111,9 +114,16 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Xamarin.Forms
 * [Acr-xamarin-forms](https://github.com/aritchie/acr-xamarin-forms) - Camera/Gallery, Barcode Scanning, User Dialogs, Geo-Location, Network Utils, Device Info, Settings, E-Mail, Phone, SMS all for Xamarin.Forms
+* [AdvancedTimer](https://github.com/ufuf/AdvancedTimer) - Timer object and its methods are implemented for extended support for timers.
+* [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects
+* [Compass](https://github.com/JarleySoft/Xamarin.Plugins/tree/master/Compass) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
+* [Device Orientation](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects
 * [NControl](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
 * [SolTech Xamarin Forms Toolkit](https://github.com/soltechinc/soltechxf) - set of helpful extensions to the Xamarin Forms framework
+* [Store Rating Plugin](https://github.com/voxdev/Xamarin.Plugins) - Rate app popup
+* [SVG](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG) - SVG file format support
+* [Toasts Plugin](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing some notifications inside your Xamarin.Forms application
 * [TwinTechsFormsLib](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell
 * [Xamarin-Forms-Labs](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers
 * [xamarin-forms-xna](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
@@ -124,9 +134,14 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [barcodes](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
 * [biometrics](https://github.com/aritchie/biometrics) - (Fingerprint Sensor) For Xamarin (iOS & Android)
 * [Calendars](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
+* [Device Motion](https://github.com/rdelrosario/xamarin-plugins/tree/master/DeviceMotion) - Simple cross platform plugin to read motion vectors value for device motion sensors such as: Accelerometer, Gyroscope, Magnetometer, Compass.
+* [HybridKit](https://github.com/chkn/HybridKit) - Simple C# – JavaScript bridge for building hybrid iOS and Android apps.
 * [io](https://github.com/aritchie/io) - Access system folders and files using a familiar api
 mobile-optimized libs (NSURLSession / OkHttp)
 * [Lager](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
+* [Lamp](https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp) - Simple way of controlling the lamp/LED on the back of your phone from Xamarin and Xamarin.Forms projects
+* [ManageSleep](https://github.com/molinch/Xam.Plugins.ManageSleep) - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
+* [Messaging](https://github.com/cjlotz/Xamarin.Plugins) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using 
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
