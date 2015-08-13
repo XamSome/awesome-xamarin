@@ -71,6 +71,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Internationalization
 * [Vernacular](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
+* [Resxible](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file.
 
 ## MVVM
 * Frameworks
@@ -106,8 +107,9 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Tools
 * [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
-* [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 * [GradleBindings](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
+* [Resxible](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file.
+* [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 
 ## Wearable
 * [WormHoleSharp](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
@@ -115,6 +117,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Xamarin.Forms
 * [Acr-xamarin-forms](https://github.com/aritchie/acr-xamarin-forms) - Camera/Gallery, Barcode Scanning, User Dialogs, Geo-Location, Network Utils, Device Info, Settings, E-Mail, Phone, SMS all for Xamarin.Forms
 * [AdvancedTimer](https://github.com/ufuf/AdvancedTimer) - Timer object and its methods are implemented for extended support for timers.
+* [Android AppCompat](https://github.com/nativecode-dev/oss-xamarin) - Provide Material Design themes now for Xamarin.Forms apps natively without hacks
 * [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects
 * [Compass](https://github.com/JarleySoft/Xamarin.Plugins/tree/master/Compass) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
 * [Device Orientation](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects
