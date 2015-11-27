@@ -71,6 +71,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container
+* [LightInject](https://github.com/seesharper/LightInject) - Light, simple and stunningly fast IoC container for .NET
 
 ## Internationalization
 * [Vernacular](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
@@ -162,6 +163,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile) - Reading the user's address book and using the camera
 * [xamarin-plugins](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
 * [Xamarin.Plugins](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
+* [Plugins for Xamarin](https://github.com/xamarin/plugins) - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.
 
 
 ## License
