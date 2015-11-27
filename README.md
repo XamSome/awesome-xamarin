@@ -3,8 +3,8 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   
-* [Awesome Xamarin](#awesome-xamarin)
   * [General](#general)
+  * [UI Components](#ui-components)
   * [Async](#async)
   * [Cloud](#cloud)
   * [Database/Caching](#database-caching)
@@ -31,8 +31,11 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Polly](https://github.com/michael-wolfenden/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 * [Stateless](https://github.com/nblumhardt/stateless) - State Machines
 
+## UI Components
+* [Passcode](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
+
 ## Async
-* [AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
+* [AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await
 * [LinqToAwait](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await
 
 ## Cloud
@@ -87,6 +90,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Network
 * [Flurl](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [Fusillade](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
+* [Messaging](https://github.com/jamesmontemagno/Xamarin.Plugins-1) - make a phone call, send a sms or send an e-mail using the default messaging applications
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
 * [Push Notification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
@@ -97,6 +101,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Security
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
 * [BoucyCastle.PCL](https://github.com/onovotny/BouncyCastle-PCL) PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
+* [Permissions](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions) Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more
 
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
