@@ -26,9 +26,9 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## General
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
-* [Humanizer](https://github.com/MehdiK/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
+* [Humanizer](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
 * [Fluent Validation](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules
-* [Polly](https://github.com/michael-wolfenden/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
+* [Polly](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 * [Stateless](https://github.com/nblumhardt/stateless) - State Machines
 
 ## UI Components
@@ -59,7 +59,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Game Engine
 * [CocosSharp](https://github.com/mono/CocosSharp) - C# implementation of the Cocos2D and Cocos3D APIs
 * [MonoGame](https://github.com/mono/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework 
-* [Paradox](https://github.com/SiliconStudio/paradox) - Paradox3D + Silicon Studio .NET
+* [Paradox](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
 
 ## Imaging
 * [Fast & Furious Image Loading](https://github.com/molinch/FFImageLoading) - Xamarin library to load images quickly & easily
