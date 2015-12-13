@@ -7,22 +7,23 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [UI Components](#ui-components)
   * [Async](#async)
   * [Cloud](#cloud)
-  * [Database/Caching](#database-caching)
   * [Framework](#frameworks)
   * [Fody](#fody)
   * [Game Engine](#game-engine)
   * [Imaging](#imaging)
+  * [IO](#io)
   * [IOC](#ioc)
   * [Internationalization](#internationalization)
   * [MVVM](#mvvm)
   * [Network](#network)
   * [Security](#security)
   * [Serialization](#serialization)
+  * [Storage](#storage)
   * [TDD/BDD](#tdd-bdd)
   * [Tools](#tool)
   * [Wearable](#wearable)
   * [Xamarin.Forms](#xamarin-forms)
-  * [XPlat APIs](#xplat-apis)
+  * [More XPlat APIs](#xplat-apis)
 
 ## General
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
@@ -41,11 +42,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Cloud
 * [Azure](http://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
 * [FireSharp](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
-
-## Database/Caching
-* [Akavache](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
-* [Massive](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively
-* [SQLite.Net-PCL](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async
 
 ## Fody
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
@@ -66,6 +62,11 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [NGraphics](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [Splat](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
 * [EZ-Compress](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
+
+## IO
+* [io](https://github.com/aritchie/io) - Access system folders and files using a familiar api
+mobile-optimized libs (NSURLSession / OkHttp)
+* [PCL Storage](https://github.com/dsplaisted/PCLStorage) - consistent, portable set of local file IO APIs for .NET
 
 ## IOC
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
@@ -107,6 +108,13 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 
+## Storage
+* [Akavache](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
+* [Lager](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
+* [Massive](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively
+* [Settings](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows
+* [SQLite.Net-PCL](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async
+
 ## TDD/BDD
 * [FluentAssertions](http://www.fluentassertions.com/) - TDD/BDD fluent asserts
 * [NBehave](https://github.com/nbehave/NBehave) - framework for Behaviour-Driven Development
@@ -137,7 +145,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Xamarin-Forms-Labs](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers
 * [xamarin-forms-xna](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
 
-## XPlat APIs
+## More XPlat APIs
 Most of them support Android and iOS, some do Windows Phone 8
 
 * [barcodes](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
@@ -145,16 +153,12 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [Calendars](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
 * [Device Motion](https://github.com/rdelrosario/xamarin-plugins/tree/master/DeviceMotion) - Simple cross platform plugin to read motion vectors value for device motion sensors such as: Accelerometer, Gyroscope, Magnetometer, Compass.
 * [HybridKit](https://github.com/chkn/HybridKit) - Simple C# – JavaScript bridge for building hybrid iOS and Android apps.
-* [io](https://github.com/aritchie/io) - Access system folders and files using a familiar api
-mobile-optimized libs (NSURLSession / OkHttp)
-* [Lager](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
 * [Lamp](https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp) - Simple way of controlling the lamp/LED on the back of your phone from Xamarin and Xamarin.Forms projects
 * [ManageSleep](https://github.com/molinch/Xam.Plugins.ManageSleep) - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
 * [Messaging](https://github.com/cjlotz/Xamarin.Plugins) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using 
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
-* [Settings](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows
 * [Telephony](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality
 * [userdialogs](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
