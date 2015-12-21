@@ -1,4 +1,6 @@
-# awesome-xamarin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-xamarin
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/benoitjadinon/awesome-xamarin.svg)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
+
 A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for Xamarin Android/iOS/WP libraries.
 
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
@@ -92,7 +94,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 ## Network
 * [Flurl](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [Fusillade](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
-* [Messaging](https://github.com/jamesmontemagno/Xamarin.Plugins-1) - make a phone call, send a sms or send an e-mail using the default messaging applications
+* [Messaging](https://github.com/jamesmontemagno/Xamarin.Plugins) - make a phone call, send a sms or send an e-mail using the default messaging applications
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
 * [Push Notification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
@@ -156,9 +158,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [Lamp](https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp) - Simple way of controlling the lamp/LED on the back of your phone from Xamarin and Xamarin.Forms projects
 * [ManageSleep](https://github.com/molinch/Xam.Plugins.ManageSleep) - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
 * [Messaging](https://github.com/cjlotz/Xamarin.Plugins) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
-* [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using 
 * [notifications](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
-* [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Telephony](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality
 * [userdialogs](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
