@@ -1,5 +1,5 @@
 # awesome-xamarin
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/benoitjadinon/awesome-xamarin.svg)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg)](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg)
 
 A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for Xamarin Android/iOS/WP libraries.
 
@@ -84,8 +84,8 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * Frameworks
   * [MVVMCross](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework
 	* [Cheesebaron.MvxPlugins](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins
-	* [MvxAms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross Azure Mobile Services plugin
-	* [MvxForms](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
+		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
+		* [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - MVVMCross plugin for using Xamarin.Forms
 	* [acrmvvmcross](https://github.com/aritchie/acrmvvmcross) - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
   * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Bind](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
@@ -94,7 +94,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 ## Network
 * [Flurl](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [Fusillade](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
-* [Messaging](https://github.com/jamesmontemagno/Xamarin.Plugins) - make a phone call, send a sms or send an e-mail using the default messaging applications
+* [Messaging](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - make a phone call, send a sms or send an e-mail using the default messaging applications
 * [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
 * [Push Notification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 * [Reachability](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
@@ -124,7 +124,6 @@ mobile-optimized libs (NSURLSession / OkHttp)
 ## Tools
 * [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [GradleBindings](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
-* [Resxible](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file.
 * [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 
 ## Wearable
@@ -172,6 +171,6 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Benoit Jadinon has waived all copyright and related or neighboring rights to this work.
