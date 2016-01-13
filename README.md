@@ -153,6 +153,8 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [biometrics](https://github.com/aritchie/biometrics) - (Fingerprint Sensor) For Xamarin (iOS & Android)
 * [Calendars](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
 * [Device Motion](https://github.com/rdelrosario/xamarin-plugins/tree/master/DeviceMotion) - Simple cross platform plugin to read motion vectors value for device motion sensors such as: Accelerometer, Gyroscope, Magnetometer, Compass.
+* [Estimote](https://github.com/aritchie/estimotes-xplat) - Cross platform implementation of the estimote library for beacons.
+* [Fingerprint](https://github.com/smstuebe/xamarin-fingerprint) - Xamarin and MvvMCross plugin for accessing the fingerprint sensor.
 * [HybridKit](https://github.com/chkn/HybridKit) - Simple C# – JavaScript bridge for building hybrid iOS and Android apps.
 * [Lamp](https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp) - Simple way of controlling the lamp/LED on the back of your phone from Xamarin and Xamarin.Forms projects
 * [ManageSleep](https://github.com/molinch/Xam.Plugins.ManageSleep) - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
