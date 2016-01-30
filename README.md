@@ -31,6 +31,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
 * [Fluent Validation](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules
+* [NodaTime](http://nodatime.org/) - Alternative date and time API for .NET
 * [Polly](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 * [Stateless](https://github.com/nblumhardt/stateless) - State Machines
 
