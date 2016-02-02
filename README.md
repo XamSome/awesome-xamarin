@@ -33,7 +33,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Fluent Validation](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules
 * [NodaTime](http://nodatime.org/) - Alternative date and time API for .NET
 * [Polly](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
-* [Stateless](https://github.com/nblumhardt/stateless) - State Machines
+* [Stateless](https://github.com/dotnet-state-machine/stateless) - State Machines
 
 ## UI Components
 * [Passcode](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
