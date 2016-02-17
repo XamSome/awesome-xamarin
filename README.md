@@ -43,7 +43,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [LinqToAwait](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await
 
 ## Cloud
-* [Azure](http://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
+* [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
 * [FireSharp](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
 
 ## Fody
