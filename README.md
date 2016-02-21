@@ -21,6 +21,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [Security](#security)
   * [Serialization](#serialization)
   * [Storage](#storage)
+  * [Reactive](#reactive)
   * [TDD/BDD](#tdd-bdd)
   * [Tools](#tool)
   * [Wearable](#wearable)
@@ -102,6 +103,12 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [Refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
 * [Sockets](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT
+
+## Reactive
+* [Akavache](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
+* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
+* [Refit](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
+* [RxFlow](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
 ## Security
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
