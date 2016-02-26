@@ -7,6 +7,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   
   * [General](#general)
   * [UI Components](#ui-components)
+  * [Architecture](#architecture)
   * [Async](#async)
   * [Cloud](#cloud)
   * [Framework](#frameworks)
@@ -34,10 +35,13 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Fluent Validation](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules
 * [NodaTime](http://nodatime.org/) - Alternative date and time API for .NET
 * [Polly](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
-* [Stateless](https://github.com/dotnet-state-machine/stateless) - State Machines
 
 ## UI Components
 * [Passcode](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
+
+## Architecture
+* [Behaviors Toolkit](https://github.com/ThomasLebrun/XamarinBehaviorsToolkit) - A means of adding common and reusable interactivity to your Xamarin applications with minimal code
+* [Stateless](https://github.com/dotnet-state-machine/stateless) - State Machines
 
 ## Async
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await
@@ -60,10 +64,13 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [CocosSharp](https://github.com/mono/CocosSharp) - C# implementation of the Cocos2D and Cocos3D APIs
 * [MonoGame](https://github.com/mono/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework 
 * [Paradox](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
+* [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
 
 ## Imaging
 * [Fast & Furious Image Loading](https://github.com/molinch/FFImageLoading) - Xamarin library to load images quickly & easily
+* [Iconify](https://github.com/PragmaticIT/xiconify) - 
 * [NGraphics](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
+* [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
 * [EZ-Compress](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
 
@@ -72,8 +79,9 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 mobile-optimized libs (NSURLSession / OkHttp)
 * [PCL Storage](https://github.com/dsplaisted/PCLStorage) - consistent, portable set of local file IO APIs for .NET
 
-## IOC
-* [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+## IOC/DI
+* [Autofac]()https://github.com/autofac/Autofac) - An addictive .NET IoC container
+* [Funq](https://github.com/thiagoromam/FunqPortable) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories.
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container
 * [LightInject](https://github.com/seesharper/LightInject) - Light, simple and stunningly fast IoC container for .NET
@@ -111,6 +119,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [RxFlow](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
 ## Security
+* [Fingerprint Plugin](https://github.com/smstuebe/xamarin-fingerprint) - Xamarin and MvvMCross plugin for accessing the fingerprint sensor
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
 * [BoucyCastle.PCL](https://github.com/onovotny/BouncyCastle-PCL) PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
 * [Permissions](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions) Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more
