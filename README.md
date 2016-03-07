@@ -141,8 +141,9 @@ mobile-optimized libs (NSURLSession / OkHttp)
 ## Tools
 * [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [GradleBindings](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
-* [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 * [Material icons generator plugin](https://github.com/interisti/material-icons-generator-plugin) - Xamarin Studio plugin, for adding material icons to android project
+* [Twin Tools Add-In](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
+* [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 
 ## Wearable
 * [WormHoleSharp](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
