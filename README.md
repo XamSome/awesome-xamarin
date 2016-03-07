@@ -24,7 +24,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [Storage](#storage)
   * [Reactive](#reactive)
   * [TDD/BDD](#tdd-bdd)
-  * [Tools](#tool)
+  * [Tools](#tools)
   * [Wearable](#wearable)
   * [Xamarin.Forms](#xamarin-forms)
   * [More XPlat APIs](#xplat-apis)
@@ -142,6 +142,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [GradleBindings](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
 * [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
+* [Material icons generator plugin](https://github.com/interisti/material-icons-generator-plugin) - Xamarin Studio plugin, for adding material icons to android project
 
 ## Wearable
 * [WormHoleSharp](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
