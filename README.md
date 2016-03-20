@@ -68,7 +68,6 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Imaging
 * [Fast & Furious Image Loading](https://github.com/molinch/FFImageLoading) - Xamarin library to load images quickly & easily
-* [Iconify](https://github.com/PragmaticIT/xiconify) - 
 * [NGraphics](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
@@ -80,15 +79,17 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [PCL Storage](https://github.com/dsplaisted/PCLStorage) - consistent, portable set of local file IO APIs for .NET
 
 ## IOC/DI
-* [Autofac]()https://github.com/autofac/Autofac) - An addictive .NET IoC container
-* [Funq](https://github.com/thiagoromam/FunqPortable) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories.
-* [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
-* [TinyIoC](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container
+* [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+* [DryIoc](https://bitbucket.org/dadhi/dryioc) - fast, small, full-featured IoC Container for .NET
+* [Funq](https://github.com/thiagoromam/FunqPortable) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories
 * [LightInject](https://github.com/seesharper/LightInject) - Light, simple and stunningly fast IoC container for .NET
+* [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
+* [Stiletto](http://stiletto.bendb.com) - .NET port of Dagger, the lightweight Android dependency injector from Square
+* [TinyIoC](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container
 
 ## Internationalization
-* [Vernacular](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
 * [Resxible](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file.
+* [Vernacular](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
 
 ## MVVM
 * Frameworks
@@ -119,9 +120,9 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [RxFlow](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
 ## Security
+* [BoucyCastle.PCL](https://github.com/onovotny/BouncyCastle-PCL) PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
 * [Fingerprint Plugin](https://github.com/smstuebe/xamarin-fingerprint) - Xamarin and MvvMCross plugin for accessing the fingerprint sensor
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...)
-* [BoucyCastle.PCL](https://github.com/onovotny/BouncyCastle-PCL) PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
 * [Permissions](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions) Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more
 
 ## Serialization
@@ -139,9 +140,9 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [NBehave](https://github.com/nbehave/NBehave) - framework for Behaviour-Driven Development
 
 ## Tools
-* [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [GradleBindings](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
 * [Material icons generator plugin](https://github.com/interisti/material-icons-generator-plugin) - Xamarin Studio & Visual Studio plugin, for adding material icons to android project
+* [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [Twin Tools Add-In](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
 * [Xamaridea](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 
