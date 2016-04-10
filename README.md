@@ -98,6 +98,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
 		* [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - MVVMCross plugin for using Xamarin.Forms
 	* [acrmvvmcross](https://github.com/aritchie/acrmvvmcross) - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
+	* [Infinite Scroll Plugin](https://github.com/HBSequence/Sequence.Plugins) - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
   * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Bind](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
 * [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
