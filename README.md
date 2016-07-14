@@ -67,7 +67,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
 
 ## Imaging
-* [Fast & Furious Image Loading ★130](https://github.com/molinch/FFImageLoading) - Xamarin library to load images quickly & easily
+* [Fast & Furious Image Loading ★130](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily
 * [NGraphics ★234](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat ★402](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
@@ -142,7 +142,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 
 ## Tools
 * [GradleBindings ★39](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
-* [Material icons generator plugin ★8](https://github.com/interisti/material-icons-generator-plugin) - Xamarin Studio & Visual Studio plugin, for adding material icons to android project
+* [Material icons generator plugin ★8](https://github.com/interisti/xs-material-icons-generator) - Xamarin Studio & Visual Studio plugin, for adding material icons to android project
 * [**PushSharp ★3,114**](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [Twin Tools Add-In ★7](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
 * [Xamaridea ★17](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
@@ -189,7 +189,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [Xamarin.Mobile ★181](https://github.com/xamarin/Xamarin.Mobile) - Reading the user's address book and using the camera
 * [xamarin-plugins ★12](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
 * [Xamarin.Plugins ★468](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
-* [Plugins for Xamarin ★231](https://github.com/xamarin/plugins) - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.
+* [Xamarin Components ★231]( https://github.com/xamarin/XamarinComponents) - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.
 
 
 ## License
