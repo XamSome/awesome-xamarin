@@ -84,7 +84,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [Funq ★0](https://github.com/thiagoromam/FunqPortable) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories
 * [LightInject ★177](https://github.com/seesharper/LightInject) - Light, simple and stunningly fast IoC container for .NET
 * [**Ninject ★1,450**](https://github.com/ninject/Ninject) - The ninja of .net dependency injectors
-* [Stiletto](http://stiletto.bendb.com) - .NET port of Dagger, the lightweight Android dependency injector from Square
+* [Stiletto](https://github.com/benjamin-bader/stiletto) - .NET port of Dagger, the lightweight Android dependency injector from Square
 * [TinyIoC ★422](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container
 
 ## Internationalization
@@ -194,6 +194,6 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Benoit Jadinon has waived all copyright and related or neighboring rights to this work.
