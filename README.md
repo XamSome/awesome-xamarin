@@ -72,6 +72,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat ★402](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
 * [EZ-Compress ★3](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
+* [PDFReader](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
 
 ## IO
 * [io ★2](https://github.com/aritchie/io) - Access system folders and files using a familiar api
