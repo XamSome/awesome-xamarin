@@ -62,7 +62,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 
 ## Game Engine
 * [CocosSharp ★328](https://github.com/mono/CocosSharp) - C# implementation of the Cocos2D and Cocos3D APIs
-* [**MonoGame ★3,416**](https://github.com/mono/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework 
+* [**MonoGame ★3,416**](https://github.com/MonoGame/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework 
 * [**Paradox ★852**](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
 * [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
 
