@@ -172,7 +172,6 @@ mobile-optimized libs (NSURLSession / OkHttp)
 Most of them support Android and iOS, some do Windows Phone 8
 
 * [barcodes ★4](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
-* [biometrics ★2](https://github.com/aritchie/biometrics) - (Fingerprint Sensor) For Xamarin (iOS & Android)
 * [Calendars ★9](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
 * [Device Motion](https://github.com/rdelrosario/xamarin-plugins/tree/master/DeviceMotion) - Simple cross platform plugin to read motion vectors value for device motion sensors such as: Accelerometer, Gyroscope, Magnetometer, Compass.
 * [Estimote ★12](https://github.com/aritchie/estimotes-xplat) - Cross platform implementation of the estimote library for beacons.
