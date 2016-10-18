@@ -147,6 +147,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [**PushSharp ★3,114**](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [Twin Tools Add-In ★7](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
 * [Xamaridea ★17](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
+* [Cheeseknife](https://github.com/MarcelBraghetto/Cheeseknife) -  a view injection library for Xamarin.Android
 
 ## Wearable
 * [WormHoleSharp ★23](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
