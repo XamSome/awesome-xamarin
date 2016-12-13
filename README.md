@@ -101,6 +101,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 	* [acrmvvmcross ★43](https://github.com/aritchie/acrmvvmcross) - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
 	* [Infinite Scroll Plugin ★14](https://github.com/HBSequence/Sequence.Plugins) - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
   * [**ReactiveUI ★2,249**](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
+  * [MugenMvvmToolkit ★97](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - Cross-platform MVVM development framework
 * [Bind ★98](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
 * [Fody/PropertyChanged ★301](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 
