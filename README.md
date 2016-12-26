@@ -99,7 +99,6 @@ mobile-optimized libs (NSURLSession / OkHttp)
 	* [Cheesebaron.MvxPlugins ★65](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins
 		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
 		* [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - MVVMCross plugin for using Xamarin.Forms
-	* [acrmvvmcross ★43](https://github.com/aritchie/acrmvvmcross) - Barcode, Device Info, IO, Network, Settings, Signature, User Dialogs
 	* [Infinite Scroll Plugin ★14](https://github.com/HBSequence/Sequence.Plugins) - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
   * [**ReactiveUI ★2,249**](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
   * [MugenMvvmToolkit ★97](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - Cross-platform MVVM development framework
@@ -136,6 +135,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [**Akavache ★1,148**](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [Lager ★1](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
 * [**Massive ★1,530**](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively
+* [Realm](https://github.com/realm/realm-dotnet) - mobile database that runs directly inside phones, tablets or wearables
 * [Settings ★11](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows
 * [SQLite.Net-PCL ★237](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async
 
@@ -175,7 +175,6 @@ mobile-optimized libs (NSURLSession / OkHttp)
 ## More XPlat APIs
 Most of them support Android and iOS, some do Windows Phone 8
 
-* [barcodes ★4](https://github.com/aritchie/barcodes) - A cross platform barcode scanning and creating library built on top of ZXing.Net.Mobile.
 * [Calendars ★9](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
 * [Device Motion](https://github.com/rdelrosario/xamarin-plugins/tree/master/DeviceMotion) - Simple cross platform plugin to read motion vectors value for device motion sensors such as: Accelerometer, Gyroscope, Magnetometer, Compass.
 * [Estimote ★12](https://github.com/aritchie/estimotes-xplat) - Cross platform implementation of the estimote library for beacons.
