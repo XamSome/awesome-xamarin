@@ -6,28 +6,29 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   
   * [General](#general)
-  * [UI Components](#ui-components)
   * [Architecture](#architecture)
   * [Async](#async)
   * [Cloud](#cloud)
+  * [Database](#database)
   * [Framework](#frameworks)
   * [Fody](#fody)
   * [Game Engine](#game-engine)
-  * [Imaging](#imaging)
-  * [IO](#io)
-  * [IOC](#ioc)
+  * [IO/Storage](#iostorage)
+  * [IOC/DI](#iocdi)
   * [Internationalization](#internationalization)
+  * [Media](#media)
   * [MVVM](#mvvm)
   * [Network](#network)
   * [Security](#security)
   * [Serialization](#serialization)
-  * [Storage](#storage)
   * [Reactive](#reactive)
   * [TDD/BDD](#tdd-bdd)
   * [Tools](#tools)
+  * [UI](#ui)
   * [Wearable](#wearable)
   * [Xamarin.Forms](#xamarin-forms)
-  * [More XPlat APIs](#xplat-apis)
+  * [XPlat APIs](#xplat-apis)
+  * [Other Lists](#other-lists)
 
 ## General
 * [**AutoMapper ★3,411**](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
@@ -36,11 +37,9 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [NodaTime](http://nodatime.org/) - Alternative date and time API for .NET
 * [**Polly ★1,392**](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 
-## UI Components
-* [Passcode ★5](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
-
 ## Architecture
 * [Behaviors Toolkit ★19](https://github.com/ThomasLebrun/XamarinBehaviorsToolkit) - A means of adding common and reusable interactivity to your Xamarin applications with minimal code
+* [Conditions](https://github.com/ghuntley/conditions) - Library that helps developers write pre- and postcondition validations in a fluent manner
 * [**Stateless ★510**](https://github.com/dotnet-state-machine/stateless) - State Machines
 
 ## Async
@@ -51,14 +50,25 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
 * [FireSharp ★159](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
 
+## Database
+* [**Akavache ★1,148**](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
+* [Breeze](https://github.com/Breeze/breeze.sharp) - Data management library for developers of rich client applications
+* [Couchbase.Lite](https://github.com/couchbase/couchbase-lite-net) - Lightweight embedded NoSQL database
+* [Lager ★1](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
+* [**Massive ★1,530**](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively
+* [Realm](https://github.com/realm/realm-dotnet) - mobile database that runs directly inside phones, tablets or wearables
+* [Settings ★11](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows
+* [SQLite.Net-PCL ★237](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async
+
 ## Fody
 * [**Fody ★975**](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
-* [ReactiveUI.Fody ★25](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
 * [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties
 * [PropertyChanged.Fody](https://github.com/Fody/PropertyChanged/) - Injects INotifyPropertyChanged code into properties at compile time
+* [ReactiveUI.Fody ★25](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
 
 ## Framework
 * [SimplyMobile ★77](https://github.com/sami1971/SimplyMobile) - Collection of abstracted mobile functionalities
+* [Xamu-Infrastructure](https://github.com/xamarinhq/xamu-infrastructure) - Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University
 
 ## Game Engine
 * [CocosSharp ★328](https://github.com/mono/CocosSharp) - C# implementation of the Cocos2D and Cocos3D APIs
@@ -66,18 +76,8 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [**Paradox ★852**](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
 * [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
 
-## Media
-* [EZ-Compress ★3](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
-* [Fast & Furious Image Loading ★130](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily
-* [MediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL
-* [NGraphics ★234](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
-* [PDFReader](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
-* [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
-* [Splat ★402](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
-
-## IO
+## IO/Storage
 * [io ★2](https://github.com/aritchie/io) - Access system folders and files using a familiar api
-mobile-optimized libs (NSURLSession / OkHttp)
 * [PCL Storage ★106](https://github.com/dsplaisted/PCLStorage) - consistent, portable set of local file IO APIs for .NET
 
 ## IOC/DI
@@ -90,8 +90,17 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [TinyIoC ★422](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container
 
 ## Internationalization
-* [Resxible ★5](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file.
+* [Resxible ★5](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file
 * [Vernacular ★158](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
+
+## Media
+* [EZ-Compress ★3](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
+* [Fast & Furious Image Loading ★130](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily
+* [MediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL
+* [NGraphics ★234](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
+* [PDFReader](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
+* [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
+* [Splat ★402](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
 
 ## MVVM
 * Frameworks
@@ -100,10 +109,12 @@ mobile-optimized libs (NSURLSession / OkHttp)
 		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
 		* [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - MVVMCross plugin for using Xamarin.Forms
 	* [Infinite Scroll Plugin ★14](https://github.com/HBSequence/Sequence.Plugins) - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
+  * [FreshMvvm](https://github.com/rid00z/FreshMvvm) - Super light Mvvm Framework designed specifically for Xamarin.Forms
+  * [MugenMvvmToolkit ★97](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - Cross-
+  * [MVVMLight](http://www.mvvmlight.net) - Cross-platform MVVM development framework
+  * [MvvmNano](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms
   * [**ReactiveUI ★2,249**](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
-  * [MugenMvvmToolkit ★97](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - Cross-platform MVVM development framework
 * [Bind ★98](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
-* [Fody/PropertyChanged ★301](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 
 ## Network
 * [Flurl ★206](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
@@ -131,14 +142,6 @@ mobile-optimized libs (NSURLSession / OkHttp)
 ## Serialization
 * [**Newtonsoft.Json ★3,000**](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 
-## Storage
-* [**Akavache ★1,148**](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
-* [Lager ★1](https://github.com/ghuntley/Lager) - Cross-platform settings storage that uses Akavache as a storage backend
-* [**Massive ★1,530**](https://github.com/FransBouma/Massive) - "wrapper" for your DB tables and uses System.Dynamic extensively
-* [Realm](https://github.com/realm/realm-dotnet) - mobile database that runs directly inside phones, tablets or wearables
-* [Settings ★11](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows
-* [SQLite.Net-PCL ★237](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async
-
 ## TDD/BDD
 * [FluentAssertions](http://www.fluentassertions.com/) - TDD/BDD fluent asserts
 * [NBehave ★36](https://github.com/nbehave/NBehave) - framework for Behaviour-Driven Development
@@ -150,6 +153,10 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [Twin Tools Add-In ★7](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
 * [Xamaridea ★17](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 * [Cheeseknife](https://github.com/MarcelBraghetto/Cheeseknife) -  a view injection library for Xamarin.Android
+
+## UI
+* [NControl](https://github.com/chrfalch/NControl/) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
+* [Passcode ★5](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
 
 ## Wearable
 * [WormHoleSharp ★23](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
@@ -172,7 +179,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [**Xamarin-Forms-Labs ★749**](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers
 * [xamarin-forms-xna ★5](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
 
-## More XPlat APIs
+## XPlat APIs
 Most of them support Android and iOS, some do Windows Phone 8
 
 * [Calendars ★9](https://github.com/TheAlmightyBob/Calendars) - Calendar API plugin for Xamarin and Windows Phone, Supports basic CRUD operations with calendars and events.
@@ -184,6 +191,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [ManageSleep ★4](https://github.com/molinch/Xam.Plugins.ManageSleep) - Manage auto sleep / auto lock in all platforms. This is useful when dealing with long running processes
 * [Messaging ★25](https://github.com/cjlotz/Xamarin.Plugins) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
 * [notifications ★5](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
+* [Pontoon](https://github.com/inthehand/Pontoon) - A flexible bridge to the Universal Windows Platform
 * [Telephony ★8](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality
 * [userdialogs ★92](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
@@ -191,8 +199,11 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [Xamarin.LocalNotifications ★23](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications
 * [Xamarin.Mobile ★181](https://github.com/xamarin/Xamarin.Mobile) - Reading the user's address book and using the camera
 * [xamarin-plugins ★12](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
-* [Xamarin.Plugins ★468](https://github.com/jamesmontemagno/Xamarin.Plugins) - Battery Status, Connectivity, Contacts, Device Information, Extended Maps, Geolocator, Media, Settings, Text To Speech, Vibrate, Circle Image for Xamarin.Forms
+
+## Other lists
+
 * [Xamarin Components ★231]( https://github.com/xamarin/XamarinComponents) - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.
+
 
 
 ## License
