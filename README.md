@@ -66,13 +66,14 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [**Paradox ★852**](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
 * [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
 
-## Imaging
+## Media
+* [EZ-Compress ★3](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
 * [Fast & Furious Image Loading ★130](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily
+* [MediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL
 * [NGraphics ★234](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
+* [PDFReader](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
 * [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat ★402](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
-* [EZ-Compress ★3](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
-* [PDFReader](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
 
 ## IO
 * [io ★2](https://github.com/aritchie/io) - Access system folders and files using a familiar api
@@ -162,6 +163,7 @@ mobile-optimized libs (NSURLSession / OkHttp)
 * [Device Orientation](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects
 * [NControl ★87](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms ★7](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
+* [Rb.Forms.Barcode](https://github.com/rebuy-de/rb-forms-barcode) - Xamarin.Forms view for scanning barcodes
 * [SolTech Xamarin Forms Toolkit ★18](https://github.com/soltechinc/soltechxf) - set of helpful extensions to the Xamarin Forms framework
 * [Store Rating Plugin ★3](https://github.com/voxdev/Xamarin.Plugins) - Rate app popup
 * [SVG](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG) - SVG file format support
