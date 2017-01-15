@@ -3,7 +3,7 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
-  - gem install awesome_stars
+  - npm install -g awesome_stars
 script:
   - awesome_bot README.md --white-list contributing.md --allow-dupe -w travis-ci
-  - awesome_stars -i README.md -o README.md -u benoitjadinon -p ${GH_TOKEN} -b 5000
+  - awesome_stars -i README.md -o README.md -u benoitjadinon -p $GH_TOKEN -b 5000
