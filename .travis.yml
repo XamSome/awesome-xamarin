@@ -1,9 +1,10 @@
 language: ruby
 node_js:
   - "0.12"
+sudo:required
 before_script:
-  - npm install -g dkhamsing/awesome_bot
-  - npm install -g ColinEberhardt/awesome-stars
+  - npm install dkhamsing/awesome_bot
+  - npm install ColinEberhardt/awesome-stars
 script:
   - awesome_bot README.md --white-list contributing.md --allow-dupe -w travis-ci
   - awesome_stars -i README.md -o README.md -u benoitjadinon -p $GH_TOKEN -b 5000
