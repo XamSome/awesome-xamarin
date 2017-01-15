@@ -1,8 +1,8 @@
 language: ruby
-rvm:
-  - 2.2
+node_js:
+  - "0.12"
 before_script:
-  - gem install awesome_bot
+  - npm install -g dkhamsing/awesome_bot
   - npm install -g ColinEberhardt/awesome-stars
 script:
   - awesome_bot README.md --white-list contributing.md --allow-dupe -w travis-ci
