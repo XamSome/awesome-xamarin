@@ -3,8 +3,8 @@ language: node_js
 node_js:
   - "0.12"
 before_script:
-  - npm install -g github:dkhamsing/awesome_bot
-  - npm install -g github:ColinEberhardt/awesome-stars
+  - sudo npm install -g github:dkhamsing/awesome_bot
+  - sudo npm install -g github:ColinEberhardt/awesome-stars
 script:
   - awesome_bot README.md --white-list contributing.md --allow-dupe -w travis-ci
   - awesome_stars -i README.md -o README.md -u benoitjadinon -p $GH_TOKEN -b 5000
