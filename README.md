@@ -206,8 +206,8 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 ## Websites
 
-* [Weekly Xamarin](http://www.weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
-* [Planet Xamarin](http://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
+* [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
+* [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
 
 
 ## License
