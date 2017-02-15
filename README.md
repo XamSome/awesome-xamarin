@@ -203,6 +203,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 ## Other lists
 
+* [Xamarin Bindings ★11](https://github.com/aloisdeniel/Xamarin.Bindings) - A list of existing library bindings
 * [Xamarin Components ★231]( https://github.com/xamarin/XamarinComponents) - Here you will find a listing of cross platform Plugins for Xamarin that support Xamarin.iOS, Xamarin.Android, Xamarin.Forms, and Windows Platform from a single API.
 
 ## Websites
