@@ -96,6 +96,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Media
 * [EZ-Compress ★6](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
 * [Fast & Furious Image Loading ★338](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily
+* [Lottie ★143](https://github.com/martijn00/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin
 * [MediaManager ★46](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL
 * [NGraphics ★334](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [PDFReader ★44](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
