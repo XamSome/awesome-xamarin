@@ -116,6 +116,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [MvvmNano ★26](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms
   * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Bind ★125](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
+* [Wires](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
 
 ## Network
 * [Flurl ★470](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
