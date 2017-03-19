@@ -149,7 +149,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Newtonsoft.Json ★3,775](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 
 ## TDD/BDD
-* [FluentAssertions](http://www.fluentassertions.com/) - TDD/BDD fluent asserts
+* [FluentAssertions](http://fluentassertions.com) - TDD/BDD fluent asserts
 * [NBehave ★39](https://github.com/nbehave/NBehave) - framework for Behaviour-Driven Development
 
 ## Tools
