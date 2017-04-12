@@ -184,6 +184,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [TwinTechsFormsLib ★132](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell
 * [Xamarin-Forms-Labs ★1,071](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers
 * [xamarin-forms-xna ★6](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms
+* [Xamarin.Forms.GoogleMaps ★109](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Maps library for Xamarin.Forms using Google Mapps API
 
 ## XPlat APIs
 Most of them support Android and iOS, some do Windows Phone 8
