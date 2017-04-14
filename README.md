@@ -49,6 +49,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 ## Cloud
 * [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
 * [FireSharp ★319](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
+* [Bugfender](https://github.com/bugfender/bugfender-xamarin) - Store your application logs on the cloud (iOS & Android)
 
 ## Database
 * [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
