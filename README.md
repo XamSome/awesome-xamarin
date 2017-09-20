@@ -123,6 +123,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
 		* [MvxForms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - MVVMCross plugin for using Xamarin.Forms
 	* [Infinite Scroll Plugin ★19](https://github.com/HBSequence/Sequence.Plugins) - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
+	* [XamFormsMvxTemplate](https://github.com/JTOne123/XamFormsMvxTemplate) ([VS](https://marketplace.visualstudio.com/items?itemName=PaulDatsiuk.XamarinFormswithMvvmCross5SolutionTemplate)) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP)
   * [FreshMvvm ★160](https://github.com/rid00z/FreshMvvm) - Super light Mvvm Framework designed specifically for Xamarin.Forms
   * [MugenMvvmToolkit ★102](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - Cross-
   * [MVVMLight](http://www.mvvmlight.net) - Cross-platform MVVM development framework
@@ -170,7 +171,6 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Twin Tools Add-In ★15](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
 * [Xamaridea ★34](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 * [Cheeseknife ★33](https://github.com/MarcelBraghetto/Cheeseknife) -  a view injection library for Xamarin.Android
-* [XamFormsMvxTemplate](https://github.com/JTOne123/XamFormsMvxTemplate) [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=PaulDatsiuk.XamarinFormswithMvvmCross5SolutionTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP)
 
 ## UI
 * [NControl](https://github.com/chrfalch/NControl/) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
