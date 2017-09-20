@@ -13,6 +13,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [Framework](#frameworks)
   * [Fody](#fody)
   * [Game Engine](#game-engine)
+  * [Imaging](#imaging)
   * [IO/Storage](#iostorage)
   * [IOC/DI](#iocdi)
   * [Internationalization](#internationalization)
@@ -80,6 +81,9 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [Paradox ★1,252](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
 * [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
 
+## Imaging
+* [OxyPlot](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
+
 ## IO/Storage
 * [io ★2](https://github.com/aritchie/io) - Access system folders and files using a familiar api
 * [PCL Storage ★174](https://github.com/dsplaisted/PCLStorage) - consistent, portable set of local file IO APIs for .NET
@@ -105,7 +109,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [NGraphics ★334](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [PDFReader ★44](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
 * [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
-* [Splat ★487](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
+* [Splat ★487](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff
 
 ## MVVM
 * Frameworks
@@ -174,7 +178,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 * [AdvancedTimer ★18](https://github.com/ufuf/AdvancedTimer) - Timer object and its methods are implemented for extended support for timers.
 * [Android AppCompat ★29](https://github.com/nativecode-dev/oss-xamarin) - Provide Material Design themes now for Xamarin.Forms apps natively without hacks
 * [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects
-* [Compass](https://github.com/JarleySoft/Xamarin.Plugins/tree/master/Compass) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
+* [Compass](https://github.com/JarleySoft/CompassPlugin) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
 * [Device Orientation](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects
 * [NControl ★143](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms ★6](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
