@@ -7,12 +7,12 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
   * [General](#general)
   * [Architecture](#architecture)
   * [Async](#async)
+  * [Charts](#charts)
   * [Cloud](#cloud)
   * [Database](#database)
   * [Framework](#frameworks)
   * [Fody](#fody)
   * [Game Engine](#game-engine)
-  * [Imaging](#imaging)
   * [IO/Storage](#iostorage)
   * [IOC/DI](#iocdi)
   * [Internationalization](#internationalization)
@@ -45,6 +45,10 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 ## Async
 * [AsyncEx ★638](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await
 * [LinqToAwait ★86](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await
+
+## Charts
+* [OxyPlot](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
+* [MicroCharts](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 
 ## Cloud
 * [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
@@ -79,9 +83,6 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [MonoGame ★4,023](https://github.com/MonoGame/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework 
 * [Paradox ★1,252](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
 * [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
-
-## Imaging
-* [OxyPlot](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
 
 ## IO/Storage
 * [io ★2](https://github.com/aritchie/io) - Access system folders and files using a familiar api
