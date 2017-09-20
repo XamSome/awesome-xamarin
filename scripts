@@ -1,0 +1,9 @@
+
+# awesome bot
+awesome_bot README.md --white-list contributing.md --allow-dupe -w travis-ci
+
+
+# user contribs :
+https://github.com/mgechev/github-contributors-list
+
+node githubcontrib --owner benoitjadinon --repository awesome-xamarin --sha master --cols 8 --sortOrder desc --format md --showlogin true  > ../contributions.md
