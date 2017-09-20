@@ -16,6 +16,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
   * [IO/Storage](#iostorage)
   * [IOC/DI](#iocdi)
   * [Internationalization](#internationalization)
+  * [Layout](#layout)
   * [Media](#media)
   * [MVVM](#mvvm)
   * [Network](#network)
@@ -101,6 +102,9 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Resxible ★6](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file
 * [Vernacular ★161](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
 * [I18NPortable ★14](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET
+
+## Layout
+* [Flex](https://github.com/xamarin/flex) - Flexible box layout system.
 
 ## Media
 * [EZ-Compress ★6](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
