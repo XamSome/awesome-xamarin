@@ -10,3 +10,5 @@
 - use node to compile (add stars and verify links)
 
 - automate contributors inclusion
+
+- bindings : section or tag / image ?
