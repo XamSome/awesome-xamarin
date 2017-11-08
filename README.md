@@ -35,7 +35,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [AutoMapper ★4,111](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
 * [Humanizer ★2,407](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
 * [Fluent Validation ★1,893](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules
-* [NodaTime](http://nodatime.org/) - Alternative date and time API for .NET
+* [NodaTime](https://nodatime.org/) - Alternative date and time API for .NET
 * [Polly ★1,913](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 
 ## Architecture
