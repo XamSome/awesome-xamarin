@@ -141,6 +141,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Reachability ★12](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase ★81](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
+* [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [Sockets ★113](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT
 
 ## Reactive
