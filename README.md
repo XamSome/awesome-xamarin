@@ -115,6 +115,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [PDFReader ★44](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
 * [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat ★487](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff
+* [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) - Simple plugin for plays local files and audio data as a stream
 
 ## MVVM
 * Frameworks
