@@ -176,6 +176,9 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 ## UI
 * [NControl](https://github.com/chrfalch/NControl/) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
 * [Passcode ★10](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
+* [BadgeView ★4](https://github.com/SuavePirate/BadgeView) - A simple Xamarin.Forms control to display a round badge
+* [Swipecards ★34](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms
+* [PullToRefreshLayout ★94](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - Pull To Refresh a ScrollView or ListView in Xamarin.Forms
 
 ## Wearable
 * [WormHoleSharp ★22](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
