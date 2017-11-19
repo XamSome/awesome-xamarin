@@ -190,6 +190,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Android AppCompat ★29](https://github.com/nativecode-dev/oss-xamarin) - Provide Material Design themes now for Xamarin.Forms apps natively without hacks
 * [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects
 * [Compass](https://github.com/JarleySoft/CompassPlugin) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
+* [Device Orientation ★9](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) - Simple cross-platform plugin to work with screen orientation of mobile device
 * [Device Orientation](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects
 * [NControl ★143](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms ★6](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
