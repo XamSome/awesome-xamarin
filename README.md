@@ -150,6 +150,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
 * [Sensors](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
+* [ReactiveProperty ★305](https://github.com/runceel/ReactiveProperty) - Provides MVVM and asynchronous support features under Reactive Extensions
 * [RxFlow ★16](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
 ## Security
