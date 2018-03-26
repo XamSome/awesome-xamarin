@@ -52,7 +52,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [MicroCharts](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 
 ## Cloud
-* [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
+* [Azure](https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/) - Microsoft Azure
 * [FireSharp ★319](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
 * [Bugfender](https://github.com/bugfender/bugfender-xamarin) - Store your application logs on the cloud (iOS & Android)
 
@@ -83,7 +83,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [CocosSharp ★402](https://github.com/mono/CocosSharp) - C# implementation of the Cocos2D and Cocos3D APIs
 * [MonoGame ★4,023](https://github.com/MonoGame/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework 
 * [Paradox ★1,252](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET
-* [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/) - Cross-platform high-level 3D and 2D engine
+* [UrhoSharp](https://docs.microsoft.com/en-us/xamarin/graphics-games/urhosharp/) - Cross-platform high-level 3D and 2D engine
 
 ## IO/Storage
 * [io ★2](https://github.com/aritchie/io) - Access system folders and files using a familiar api
@@ -113,7 +113,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [MediaManager ★46](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL
 * [NGraphics ★334](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [PDFReader ★44](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
-* [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
+* [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/graphics-games/skiasharp/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat ★487](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff
 * [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) - Simple plugin for plays local files and audio data as a stream
 
