@@ -163,7 +163,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Newtonsoft.Json ★3,775](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 
 ## TDD/BDD
-* [FluentAssertions](http://fluentassertions.com) - TDD/BDD fluent asserts
+* [FluentAssertions](https://fluentassertions.com) - TDD/BDD fluent asserts
 * [NBehave ★39](https://github.com/nbehave/NBehave) - framework for Behaviour-Driven Development
 
 ## Tools
