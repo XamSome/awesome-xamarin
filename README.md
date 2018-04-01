@@ -116,6 +116,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/graphics-games/skiasharp/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
 * [Splat ★487](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff
 * [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) - Simple plugin for plays local files and audio data as a stream
+* [ZXing.Net.Mobile ★533](https://github.com/Redth/ZXing.Net.Mobile) - Barcode Scanning Library for MonoTouch, Mono for Android, and Windows Phone
 
 ## MVVM
 * Frameworks
@@ -182,6 +183,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [BadgeView ★4](https://github.com/SuavePirate/BadgeView) - A simple Xamarin.Forms control to display a round badge
 * [Swipecards ★34](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms
 * [PullToRefreshLayout ★94](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - Pull To Refresh a ScrollView or ListView in Xamarin.Forms
+* [SignaturePad ★93](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows
 
 ## Wearable
 * [WormHoleSharp ★22](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
