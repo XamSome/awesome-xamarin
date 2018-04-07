@@ -176,6 +176,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Cheeseknife ★33](https://github.com/MarcelBraghetto/Cheeseknife) -  a view injection library for Xamarin.Android
 * [XamFormsMvxTemplate](https://github.com/JTOne123/XamFormsMvxTemplate) [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=PaulDatsiuk.XamarinFormswithMvvmCross5SolutionTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP)
 * [xavtool ★6](https://github.com/gabrielrobert/xavtool) - Command-line utility to automatically increase iOS / Android / UWP applications version
+* [Mutatio](https://github.com/yuv4ik/Mutatio) - Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically
 
 ## UI
 * [NControl](https://github.com/chrfalch/NControl/) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
