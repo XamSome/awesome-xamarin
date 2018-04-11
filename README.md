@@ -185,6 +185,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [PullToRefreshLayout ★94](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - Pull To Refresh a ScrollView or ListView in Xamarin.Forms
 * [SignaturePad ★93](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows
 * [Swipecards ★34](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms
+* [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) - A cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup 
 
 ## Wearable
 * [WormHoleSharp ★22](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice
