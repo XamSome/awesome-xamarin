@@ -108,6 +108,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## Media
 * [EZ-Compress ★6](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
+
 * [Fast & Furious Image Loading ★338](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily
 * [Lottie ★143](https://github.com/martijn00/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin
 * [MediaManager ★46](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL
@@ -120,6 +121,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## MVVM
 * Frameworks
+  * [Prism ★2,153](https://github.com/prismlibrary/prism) - Cross-platform MVVM development framework
   * [MVVMCross ★1,793](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework
 	* [Cheesebaron.MvxPlugins ★68](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins
 		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
