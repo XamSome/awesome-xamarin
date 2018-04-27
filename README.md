@@ -120,6 +120,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## MVVM
 * Frameworks
+  * [Prism ★2,153](https://github.com/prismlibrary/prism) - Cross-platform MVVM development framework
   * [MVVMCross ★1,793](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework
 	* [Cheesebaron.MvxPlugins ★68](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - A collection of plugins
 		* [MvxAms](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure Mobile Services plugin
