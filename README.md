@@ -134,6 +134,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Wires](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
 
 ## Network
+* [Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin) - Cross-platform network/connection status
 * [Flurl ★470](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [Fusillade ★160](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
 * [Messaging](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - make a phone call, send a sms or send an e-mail using the default messaging applications
