@@ -164,6 +164,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## Serialization
 * [Newtonsoft.Json ★3,775](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
+* [quicktype ★886](https://app.quicktype.io/?l=cs) - Instantly generate classes and JSON serialization code from JSON
 
 ## TDD/BDD
 * [FluentAssertions](https://fluentassertions.com) - TDD/BDD fluent asserts
