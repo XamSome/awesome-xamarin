@@ -10,7 +10,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
   * [Charts](#charts)
   * [Cloud](#cloud)
   * [Database](#database)
-  * [Framework](#frameworks)
+  * [Framework](#framework)
   * [Fody](#fody)
   * [Game Engine](#game-engine)
   * [IO/Storage](#iostorage)
