@@ -231,6 +231,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [userdialogs ★487](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 * [Version](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
 * [Xamarin.Badge ★33](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
+* [Xamarin.Essentials ★458](https://github.com/xamarin/Essentials) - Essential cross-platform APIs from Xamarin team for iOS and Android. Provide easy access to or usage of: Acelerometer, App Information, Battery, Clipboard, Compass, Connectivity, Data Transfer (Share), Device Display Information, Device Information, Email, File System Helpers, Flashlight, Geocoding, Geolocation, Gyroscope, Magnetometer, Open Browser, Orientation Sensor, Power, Phone Dialer, Preferences, Screen Lock, Secure Storage, SMS, Text-to-Speech, Version Tracking, Vibrate.
 * [Xamarin.LocalNotifications ★40](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - Simple cross platform plugin to work with mobile local notifications
 * [Xamarin.Mobile ★237](https://github.com/xamarin/Xamarin.Mobile) - Reading the user's address book and using the camera
 * [xamarin-plugins ★39](https://github.com/domaven/xamarin-plugins) - Device Motion, Geofencing, Push Notifications (Beta)
