@@ -1,1 +1,6 @@
 ab-results-*.json
+/obj
+/bin
+/.vscode
+/node_modules
+/package-lock.json
