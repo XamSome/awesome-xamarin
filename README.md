@@ -48,9 +48,9 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [LinqToAwait ★98](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await
 
 ## Charts
-* [**OxyPlot ★1,311**](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
 * [**MicroCharts ★765**](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 * [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - MPAndroidChart/iOSCharts binding support use in Xamarin Forms
+* [**OxyPlot ★1,311**](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
 
 ## Cloud
 * [Azure](https://docs.microsoft.com/en-us/xamarin/cross-platform/data-cloud/) - Microsoft Azure
@@ -100,9 +100,9 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [**TinyIoC ★585**](https://github.com/grumpydev/TinyIoC) - Single-class easy IoC container
 
 ## Internationalization
+* [I18NPortable ★49](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET
 * [Resxible ★9](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file
 * [**Vernacular ★167**](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
-* [I18NPortable ★49](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET
 
 ## Layout
 * [**Flex ★128**](https://github.com/xamarin/flex) - Flexible box layout system.
@@ -116,8 +116,8 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [**NGraphics ★482**](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [PDFReader ★51](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
 * [SkiaSharp ★920](https://github.com/mono/SkiaSharp) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
-* [**Splat ★590**](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff
 * [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) - Simple plugin for plays local files and audio data as a stream
+* [**Splat ★590**](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff
 * [ZXing.Net.Mobile ★570](https://github.com/Redth/ZXing.Net.Mobile) - Barcode Scanning Library for MonoTouch, Mono for Android, and Windows Phone
 
 ## MVVM
@@ -138,6 +138,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## Network
 * [**Connectivity ★200**](https://github.com/jamesmontemagno/ConnectivityPlugin) - Cross-platform network/connection status
+* [**CrossDownloadManager ★67**](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) - A cross platform download manager for Xamarin
 * [**Flurl ★1,295**](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 * [**Fusillade ★216**](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
 * [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - make a phone call, send a sms or send an e-mail using the default messaging applications
@@ -153,10 +154,10 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 ## Reactive
 * [**Akavache ★1,692**](https://github.com/reactiveui/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [**ReactiveUI ★3,917**](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
-* [Sensors](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
 * [**Refit ★2,762**](https://github.com/reactiveui/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
 * [**ReactiveProperty ★361**](https://github.com/runceel/ReactiveProperty) - Provides MVVM and asynchronous support features under Reactive Extensions
 * [RxFlow ★18](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
+* [Sensors](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
 
 ## Security
 * [BoucyCastle.PCL ★93](https://github.com/onovotny/BouncyCastle-PCL) PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT
@@ -166,7 +167,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 
 ## Serialization
 * [Newtonsoft.Json ★5,812](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
-* [quicktype ★886](https://app.quicktype.io/?l=cs) - Instantly generate classes and JSON serialization code from JSON
+* [Quicktype ★886](https://app.quicktype.io/?l=cs) - Instantly generate classes and JSON serialization code from JSON
 
 ## TDD/BDD
 * [FluentAssertions](https://fluentassertions.com) - TDD/BDD fluent asserts
@@ -182,6 +183,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Xamaridea ★69](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 * [Xavtool ★15](https://github.com/gabrielrobert/xavtool) - Command-line utility to automatically increase iOS / Android / UWP applications version
 * [Xamarin-APRTextFieldSuggestions](https://github.com/aproram/Xamarin-APRTextFieldSuggestions) - Xamarin.iOS Autocomplete suggestions for UITextfield in iOS 
+
 ## UI
 * [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
 * [**SignaturePad ★117**](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows
@@ -199,8 +201,8 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Compass ★19](https://github.com/JarleySoft/CompassPlugin) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
 * [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) - Simple cross-platform plugin to work with screen orientation of mobile device
 * [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects
-* [**NControl ★243**](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms ★8](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
+* [**NControl ★243**](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - Pull To Refresh a ScrollView or ListView in Xamarin.Forms
 * [Rb.Forms.Barcode ★34](https://github.com/rebuy-de/rb-forms-barcode) - Xamarin.Forms view for scanning barcodes
 * [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) - A cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup 
@@ -229,7 +231,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 * [notifications ★79](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows
 * [Pontoon ★27](https://github.com/inthehand/Pontoon) - A flexible bridge to the Universal Windows Platform
 * [Telephony ★17](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality
-* [**userdialogs ★510**](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
+* [**UserDialogs ★510**](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 * [Version ★1](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle
 * [Xamarin.Badge ★33](https://github.com/B1naryStudio/Xamarin.Badge) - Simple cross platform plugin to work with application badge
 * [**Xamarin.Essentials ★560**](https://github.com/xamarin/Essentials) - Essential cross-platform APIs from Xamarin team for iOS and Android. Provide easy access to or usage of: Acelerometer, App Information, Battery, Clipboard, Compass, Connectivity, Data Transfer (Share), Device Display Information, Device Information, Email, File System Helpers, Flashlight, Geocoding, Geolocation, Gyroscope, Magnetometer, Open Browser, Orientation Sensor, Power, Phone Dialer, Preferences, Screen Lock, Secure Storage, SMS, Text-to-Speech, Version Tracking, Vibrate.
