@@ -149,6 +149,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [**RestEase ★339**](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
 * [RestLess ★57](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [**Sockets ★185**](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT
+* [**CrossDownloadManager ★67**](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) - A cross platform download manager for Xamarin
 
 ## Reactive
 * [**Akavache ★1,692**](https://github.com/reactiveui/Akavache) - An Asynchronous Key-Value Store for Native Applications
