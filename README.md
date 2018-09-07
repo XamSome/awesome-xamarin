@@ -233,6 +233,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows.
 - [Syncfusion Components](https://www.syncfusion.com/products/xamarin) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
+- [XamEffects ★53](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 
 
 ## Wearable
