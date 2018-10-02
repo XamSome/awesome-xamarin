@@ -266,7 +266,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms.
 - [Xamarin.Forms.GoogleMaps ★250](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Maps library for Xamarin.Forms using Google Mapps API.
 - [XamFormsMvxTemplate ★19](https://github.com/JTOne123/XamFormsMvxTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP).
-
+- [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) - Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications.
 
 ## XPlat APIs
 
