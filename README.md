@@ -234,7 +234,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows.
 - [Syncfusion Components](https://www.syncfusion.com/products/xamarin) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
 - [XamEffects ★53](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
-
+- [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) -  Telerik UI for Xamarin offers more the 70 controls to build professional-looking modern mobile applications for iOS, Android and UWP from a single code base.
 
 ## Wearable
 
@@ -266,7 +266,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms.
 - [Xamarin.Forms.GoogleMaps ★250](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Maps library for Xamarin.Forms using Google Mapps API.
 - [XamFormsMvxTemplate ★19](https://github.com/JTOne123/XamFormsMvxTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP).
-
+- [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) - Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications.
 
 ## XPlat APIs
 
