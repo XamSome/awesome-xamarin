@@ -171,6 +171,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [Connectivity ★200](https://github.com/jamesmontemagno/ConnectivityPlugin) - Cross-platform network/connection status.
 - [CrossDownloadManager ★67](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) - A cross platform download manager for Xamarin.
+- [Tiny.RestClient ★31](https://github.com/jgiacomini/Tiny.RestClient) - Description Simpliest Fluent REST client for Xamarin and .NET
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 - [Fusillade ★216](https://github.com/paulcbetts/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - Make a phone call, send a sms or send an e-mail using the default messaging applications.
