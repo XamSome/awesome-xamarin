@@ -182,7 +182,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [RestEase ★339](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
 - [RestLess ★57](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 - [Sockets ★185](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT.
-
+- [Tiny.RestClient ★31](https://github.com/jgiacomini/Tiny.RestClient) - Description Simpliest Fluent REST client for Xamarin and .NET.
 
 ## Reactive
 
