@@ -94,9 +94,9 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Ammy](http://www.ammyui.com/) - Modern UI language for XAML platforms. Free for non-commercial development.
 - [Appercode.UIFramework ★13](https://github.com/Appercode/Appercode.UIFramework) - Allows to build user interface of cross-platform mobile applications with single XAML layout.
 - [Fusion ★13](https://github.com/Appercode/Appercode.UIFramework) - Cross-platform C#-based mobile app development framework, built on top of Xamarin.iOS and Xamarin.Android.
+- [Invention](https://gitlab.com/hodgskin-callan/Invention) - Develop native apps for iOS, Android and Windows with 100% code sharing using Visual Studio and C#.NET.
 - [SimplyMobile ★103](https://github.com/sami1971/SimplyMobile) - Collection of abstracted mobile functionalities.
 - [Xamu-Infrastructure ★104](https://github.com/xamarinhq/xamu-infrastructure) - Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
-- [Invention](https://gitlab.com/hodgskin-callan/Invention) - Develop native apps for iOS, Android and Windows with 100% code sharing using Visual Studio and C#.NET.
 
 ## Game Engine
 
@@ -262,6 +262,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Swipecards ★80](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms.
 - [Toasts Plugin ★208](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing some notifications inside your Xamarin.Forms application.
 - [TwinTechsFormsLib ★187](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell.
+- [XamarinControls ★17](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 - [Xamarin-Forms-Labs ★1,392](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers.
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms.
 - [Xamarin.Forms.GoogleMaps ★250](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - Maps library for Xamarin.Forms using Google Mapps API.
