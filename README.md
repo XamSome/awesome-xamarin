@@ -148,6 +148,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Splat ★590](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff.
 - [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) - Simple plugin for plays local files and audio data as a stream.
 - [ZXing.Net.Mobile ★570](https://github.com/Redth/ZXing.Net.Mobile) - Barcode Scanning Library for MonoTouch, Mono for Android, and Windows Phone.
+- [SupportMediaXF ★2](https://github.com/bulubuloa/SupportMediaXF) - Simple cross platform plugin to take photos or pick them from a gallery from shared code
 
 
 ## MVVM
