@@ -110,6 +110,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [IO ★6](https://github.com/aritchie/io) - Access system folders and files using a familiar api.
 - [PCL Storage ★270](https://github.com/dsplaisted/PCLStorage) - Consistent, portable set of local file IO APIs for .NET.
+- [FilePicker-Plugin-for-Xamarin ★37](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
 
 
 ## IOC/DI
