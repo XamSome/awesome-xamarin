@@ -259,6 +259,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - Pull To Refresh a ScrollView or ListView in Xamarin.Forms.
 - [Rb.Forms.Barcode ★34](https://github.com/rebuy-de/rb-forms-barcode) - Xamarin.Forms view for scanning barcodes.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) - A cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup.
+- [Sharpnado.Presentation.Forms ★28](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
 - [SolTech Xamarin Forms Toolkit ★31](https://github.com/soltechinc/soltechxf) - Set of helpful extensions to the Xamarin Forms framework.
 - [Store Rating Plugin ★7](https://github.com/voxdev/Xamarin.Plugins) - Rate app popup.
 - [SVG ★1](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG) - SVG file format support.
