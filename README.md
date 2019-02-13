@@ -238,6 +238,10 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
 - [XamEffects ★53](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 - [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) -  Telerik UI for Xamarin offers more the 70 controls to build professional-looking modern mobile applications for iOS, Android and UWP from a single code base.
+- [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - _Xamarin.Android_ Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
+- [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
+
+
 
 ## Wearable
 
