@@ -174,7 +174,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Connectivity ★200](https://github.com/jamesmontemagno/ConnectivityPlugin) - Cross-platform network/connection status.
 - [CrossDownloadManager ★67](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) - A cross platform download manager for Xamarin.
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
-- [Fusillade ★216](https://github.com/paulcbetts/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
+- [Fusillade ★216](https://github.com/reactiveui/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - Make a phone call, send a sms or send an e-mail using the default messaging applications.
 - [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - Xamarin plugin for reading NFC tags.
