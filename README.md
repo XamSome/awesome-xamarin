@@ -243,7 +243,6 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
 
 
-
 ## Wearable
 
 - [WormHoleSharp ★25](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice.
