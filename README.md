@@ -52,12 +52,12 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## Async
 
 - [AsyncEx ★1,253](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
-- [LinqToAwait ★98](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
+- [LinqToAwait ★99](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
 
 
 ## Charts
 
-- [MicroCharts ★765](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+- [MicroCharts ★1052](https://github.com/dotnet-ad/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 - [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - MPAndroidChart/iOSCharts binding support use in Xamarin Forms.
 - [OxyPlot ★1,311](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET.
 
@@ -84,7 +84,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## Fody
 
 - [Fody ★2,150](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies.
-	- [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties.
+	- [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/src) - Automatically generates DependencyProperty boilerplate from simple C# properties.
 	- [PropertyChanged.Fody ★820](https://github.com/Fody/PropertyChanged/) - Injects INotifyPropertyChanged code into properties at compile time.
 	- [ReactiveUI.Fody ★105](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties.
 
@@ -166,7 +166,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [MvvmNano ★46](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms.
 - [Prism ★2,365](https://github.com/prismlibrary/prism) - Cross-platform MVVM development framework.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework.
-- [Wires ★28](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
+- [Wires ★28](https://github.com/dotnet-ad/Wires) - Wires is a simple binding library.
 
 
 ## Network
@@ -176,7 +176,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 - [Fusillade ★216](https://github.com/reactiveui/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - Make a phone call, send a sms or send an e-mail using the default messaging applications.
-- [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
+- [ModernHttpClient ★642](https://github.com/anaisbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - Xamarin plugin for reading NFC tags.
 - [Push Notification ★1](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 - [Reachability ★25](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check.
@@ -233,6 +233,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## UI
 
+- [Essential UI Kit ★130](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 - [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows.
 - [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
@@ -240,7 +241,6 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) -  Telerik UI for Xamarin offers more the 70 controls to build professional-looking modern mobile applications for iOS, Android and UWP from a single code base.
 - [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - _Xamarin.Android_ Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
 - [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
-
 
 
 ## Wearable
