@@ -220,6 +220,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## Tools
 
 - [Cheeseknife ★53](https://github.com/MarcelBraghetto/Cheeseknife) - A view injection library for Xamarin.Android.
+- [IconFont2Code ★52](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
 - [GradleBindings ★103](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects.
 - [Material icons generator plugin - Xamarin Studio ★14](https://github.com/interisti/xs-material-icons-generator) - Adding material icons to android project.
 - [Material icons generator plugin - Visual Studio](https://github.com/interisti/vs-material-icons-generator) - Adding material icons to android project.
