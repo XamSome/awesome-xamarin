@@ -79,6 +79,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Realm ★690](https://github.com/realm/realm-dotnet) - Mobile database that runs directly inside phones, tablets or wearables.
 - [Settings ★58](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows.
 - [SQLite.Net-PCL ★340](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async.
+- [LiteDB ★4245](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
 
 
 ## Fody
