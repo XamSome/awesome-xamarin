@@ -80,7 +80,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Settings ★58](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows.
 - [SQLite.Net-PCL ★340](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async.
 - [LiteDB ★4245](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
-
+- [DB4O-GPL ★8](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
 ## Fody
 
