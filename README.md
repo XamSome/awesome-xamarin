@@ -244,6 +244,10 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - _Xamarin.Android_ Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
 - [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
 - [Animated Icon Button](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
+- [SimpleBottomDrawer](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
+- [SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
+- [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
+
 
 ## Wearable
 
