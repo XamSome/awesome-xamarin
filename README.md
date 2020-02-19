@@ -140,9 +140,9 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [EZ-Compress ★11](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin.
 - [Fast & Furious Image Loading ★820](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily.
-- [Lottie ★643](https://github.com/martijn00/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
+- [Lottie ★643](https://github.com/Baseflow/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
 - [LibVLCSharp ★174](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
-- [MediaManager ★269](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
+- [MediaManager ★269](https://github.com/Baseflow/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
 - [NGraphics ★482](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics.
 - [PDFReader ★51](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone.
 - [SkiaSharp ★920](https://github.com/mono/SkiaSharp) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library.
