@@ -301,6 +301,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 - [Messaging ★88](https://github.com/cjlotz/Xamarin.Plugins) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms.
 - [Notifications ★79](https://github.com/aritchie/notifications) - Notifications plugin for Xamarin and Windows.
 - [Pontoon ★27](https://github.com/inthehand/Pontoon) - A flexible bridge to the Universal Windows Platform.
+- [Shiny ★428](https://github.com/shinyorg/shiny) - A Xamarin Framework for Backgrounding & Device Hardware Services.
 - [Telephony ★17](https://github.com/ghuntley/telephony) - Email, sms, voice and video call functionality.
 - [userdialogs ★510](https://github.com/aritchie/userdialogs) - Standard user dialogs from a shared/portable library.
 - [Version ★1](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - Get app version from bundle.
