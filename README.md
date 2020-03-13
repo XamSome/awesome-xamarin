@@ -237,7 +237,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 
 ## UI
-
+- [Xamarin.Forms.Breadcrumb](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - A control that automatically generated a breadcrumb control
 - [Essential UI Kit ★130](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 - [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows.
@@ -251,6 +251,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
 - [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 - [SimpleStaticMap](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
+
 
 
 ## Wearable
