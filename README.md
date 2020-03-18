@@ -250,6 +250,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [SimpleBottomDrawer](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
 - [SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
 - [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
+- [SimpleStaticMap](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
 
 
 ## Wearable
