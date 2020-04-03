@@ -206,7 +206,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Cryoprison](https://github.com/padresmurfa/cryoprison) - Jailbreak/Root detection for Xamarin
 - [Fingerprint Plugin ★165](https://github.com/smstuebe/xamarin-fingerprint) - Xamarin and MvvMCross plugin for accessing the fingerprint sensor.
 - [PCLCrypto ★184](https://github.com/AArnott/PCLCrypto) - Cryptography for portable class libraries (MD5,...).
-- [Permissions ★1](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
+- [Permissions ★255](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to check connection status of mobile device, gather connection type, bandwidths, and more.
 
 
 ## Serialization
@@ -265,7 +265,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [AdvancedTimer ★35](https://github.com/ufuf/AdvancedTimer) - Timer object and its methods are implemented for extended support for timers.
 - [Android AppCompat ★34](https://github.com/nativecode-dev/oss-xamarin) - Provide Material Design themes now for Xamarin.Forms apps natively without hacks.
 - [BadgeView ★31](https://github.com/SuavePirate/BadgeView) - A simple Xamarin.Forms control to display a round badge.
-- [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
+- [Circle Image Control](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [Compass ★19](https://github.com/JarleySoft/CompassPlugin) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects.
 - [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) - Simple cross-platform plugin to work with screen orientation of mobile device.
 - [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects.
