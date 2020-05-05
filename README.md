@@ -221,6 +221,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [FluentAssertions](https://fluentassertions.com) - TDD/BDD fluent asserts.
 - [NBehave ★47](https://github.com/nbehave/NBehave) - Framework for Behaviour-Driven Development.
+- [VSMac-CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage) - Gather code coverage results for your unit test projects from Visual Studio for Mac.
 
 
 ## Tools
