@@ -117,7 +117,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## IOC/DI
 
 - [Autofac ★2,169](https://github.com/autofac/Autofac) - An addictive .NET IoC container.
-- [DryIoc](https://bitbucket.org/dadhi/dryioc) - Fast, small, full-featured IoC Container for .NET.
+- [DryIoc](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 - [Funq ★2](https://github.com/thiagoromam/FunqPortable) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories.
 - [LightInject ★320](https://github.com/seesharper/LightInject) - Light, simple and stunningly fast IoC container for .NET.
 - [Ninject ★2,034](https://github.com/ninject/Ninject) - The ninja of .net dependency injectors.
