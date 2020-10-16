@@ -340,4 +340,4 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 ## License
 
-see [LICENCE.md](LICENCE.md)
+see [LICENSE](LICENSE)
