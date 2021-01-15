@@ -173,6 +173,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## Network
 
+- [Apizr ★4](https://github.com/Respawnsive/Apizr) - Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 - [Connectivity ★200](https://github.com/jamesmontemagno/ConnectivityPlugin) - Cross-platform network/connection status.
 - [CrossDownloadManager ★67](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) - A cross platform download manager for Xamarin.
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
