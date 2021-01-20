@@ -258,6 +258,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 - [SimpleStaticMap](https://github.com/galadril/Xam.Plugin.SimpleStaticMap) - Just a simple static map control based on the Static API of Google Maps for your Xamarin Forms project
 - [TEdito2](https://github.com/bulubuloa/TEditor2) - TEditor2 is a HTML editor for Xamarin, it has so many build-in features and easy to use.
+- [IridescentView](https://github.com/alexandrehtrb/IridescentView) - A custom Xamarin.Android ImageView with iridescence effect.
 
 
 ## Wearable
