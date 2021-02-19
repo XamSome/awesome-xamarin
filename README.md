@@ -130,6 +130,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [I18NPortable ★49](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET.
 - [Resxible ★9](https://github.com/apcurium/resxible) - Tool to generate automatically several platform-dependent resource files from a single RESX file.
 - [Vernacular ★167](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats.
+- [SimpleLocalize ★19](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in Xmarin projects.
 
 
 ## Layout
