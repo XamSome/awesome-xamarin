@@ -158,6 +158,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## MVVM
 
 - [Bind ★158](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
+- [EBind](https://github.com/SIDOVSKY/EBind) - Concise, fast and feature-rich .NET data binding with some Xamarin goodies.
 - [FreshMvvm ★324](https://github.com/rid00z/FreshMvvm) - Super light Mvvm Framework designed specifically for Xamarin.Forms.
 - [Infinite Scroll Plugin ★24](https://github.com/HBSequence/Sequence.Plugins) - A Plugin which facilitates forward-only incremental scrolling for a paged data source.
 - [MVVMCross ★2,657](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework.
