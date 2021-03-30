@@ -292,6 +292,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Swipecards ★80](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms.
 - [Toasts Plugin ★208](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing some notifications inside your Xamarin.Forms application.
 - [TwinTechsFormsLib ★187](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell.
+- [Web Atoms for Xamarin.Forms](https://www.webatoms.in) - Write Xamarin.Forms app in JSX/JavaScript, Easily publish new version, integrate existing app with few lines of code, Code Push for Production with MVVM
 - [XamarinControls ★17](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 - [Xamarin-Forms-Labs ★1,392](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers.
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms.
