@@ -205,7 +205,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## Security
 
-- [BoucyCastle.PCL ★93](https://github.com/clairernovotny/BouncyCastle-PCL) - PCL Version of BouncyCastle (Cryptography) targetting .NET, SL, WP and WinRT.
+- [Portable.BouncyCastle ★136](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
 - [BreachDetector ★11](https://github.com/nmilcoff/BreachDetector) - Detect root, emulation, debug mode and other security concerns in your Xamarin apps.
 - [Cryoprison](https://github.com/padresmurfa/cryoprison) - Jailbreak/Root detection for Xamarin
 - [Fingerprint Plugin ★165](https://github.com/smstuebe/xamarin-fingerprint) - Xamarin and MvvMCross plugin for accessing the fingerprint sensor.
