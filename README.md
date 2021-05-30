@@ -293,7 +293,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Swipecards ★80](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms.
 - [Toasts Plugin ★208](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing some notifications inside your Xamarin.Forms application.
 - [TwinTechsFormsLib ★187](https://github.com/twintechs/TwinTechsFormsLib) - FastCell, FastImage, FastGridCell.
-- [Web Atoms for Xamarin.Forms](https://www.webatoms.in) - Write Xamarin.Forms app in JSX/JavaScript, Easily publish new version, integrate existing app with few lines of code, Code Push for Production with MVVM
+- [Web Atoms for Xamarin.Forms](https://www.webatoms.in/index.html) - Write Xamarin.Forms app in JSX/JavaScript, Easily publish new version, integrate existing app with few lines of code, Code Push for Production with MVVM
 - [XamarinControls ★17](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 - [Xamarin-Forms-Labs ★1,392](https://github.com/XLabs/Xamarin-Forms-Labs) - Powerful and cross platform set of controls and helpers.
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Monogame wrapper for Xamarin.Forms.
@@ -340,7 +340,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 - [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplanetxamarin%2F) accounts which are automatically updated with the latest content from the community.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
-- [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
+- [Weekly Xamarin](http://weeklyxamarin.com/) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
 - [Xamarin Online Courses](https://classpert.com/topics/xamarin) - A list of over 60 Online Courses (free and paid) from Classpert Online Course Search.
 
 
