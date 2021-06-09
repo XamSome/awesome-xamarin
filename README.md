@@ -282,7 +282,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Magic Gradients ★128](https://github.com/mgierlasinski/MagicGradients) - Provides a simply way to implement a great variety of gradients in Xamarin.Forms.
 - [MvxForms ★8](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms.
 - [PancakeView ★454](https://github.com/sthewissen/Xamarin.Forms.PancakeView) - An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows, gradients and more.
-- [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - Pull To Refresh a ScrollView or ListView in Xamarin.Forms.
+- [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - [DEPRECATED] Pull To Refresh a ScrollView or ListView in Xamarin.Forms.
 - [Rb.Forms.Barcode ★34](https://github.com/rebuy-de/rb-forms-barcode) - Xamarin.Forms view for scanning barcodes.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) - A cross platform plugin for Xamarin.Forms which allows to open Xamarin.Forms pages as a popup.
 - [SharedTransitions ★223](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) - Shared element transitions between pages in Xamarin.Forms (IOS/Android).
